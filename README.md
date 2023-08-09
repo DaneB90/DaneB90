@@ -1,5 +1,6 @@
-![MasterHead](https://investors.biogen.com/sites/g/files/knoqqb80686/themes/site/nir_pid1897/dist/images/banner1.jpg)
-
+<p align="center">
+  <img src="https://investors.biogen.com/sites/g/files/knoqqb80686/themes/site/nir_pid1897/dist/images/banner1.jpg" alt="MasterHead" width="1000" height="300">
+</p>
 <h1 align="center">Hi 👋, I'm Dana.</h1>
 <h3 align="center">Let's explore the world of data!</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif" >
