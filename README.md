@@ -46,11 +46,4 @@
 
 📍 *Thanks for visiting! Feel free to explore my projects and connect!*
 
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-</p>
 
